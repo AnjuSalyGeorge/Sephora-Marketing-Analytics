@@ -80,18 +80,6 @@ Improved decision-making for marketing campaigns and product development.
 
 Enhanced ability to cater to customer preferences and increase satisfaction.
 
-<b>How to Use</b>
-
-Clone this repository to your local machine.
-
-Install the required dependencies from the "requirements.txt file".
-
-Run the EDA scripts to explore the data.
-
-Execute the sentiment analysis module to classify and analyze customer reviews.
-
-Review visualizations and insights generated to inform marketing strategies.
-
 <b>Contributor</b>
 
 Anju George<br>
