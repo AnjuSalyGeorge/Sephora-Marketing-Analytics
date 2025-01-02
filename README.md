@@ -1,11 +1,11 @@
 # Sephora-Marketing-Analytics
-<b>Overview</b>
+<font size=8><b>Overview</b></font>
 
 This project, titled Sephora-Marketing-Analytics Project, is a comprehensive data analysis initiative focused on understanding customer sentiments, exploring data-driven insights, and optimizing marketing strategies for Sephora. The key goal is to leverage sentiment analysis and exploratory data analysis (EDA) techniques to derive actionable insights and improve customer engagement and marketing efficiency.
 
-<b>##Features</b>
+<b><font size=8>Features</font></b>
 
-Exploratory Data Analysis (EDA):
+<b>Exploratory Data Analysis (EDA):</b>
 
 Conducts detailed data exploration to identify patterns, trends, and anomalies in the dataset.
 
@@ -13,7 +13,7 @@ Utilizes statistical summaries and visualizations to gain a deeper understanding
 
 Handles missing values, outliers, and data inconsistencies for cleaner and more reliable analysis.
 
-Sentiment Analysis:
+<b>Sentiment Analysis:</b>
 
 Focuses on analyzing customer reviews and feedback to determine their sentiment.
 
@@ -21,19 +21,19 @@ Categorizes sentiments as positive, negative, or neutral.
 
 Employs Natural Language Processing (NLP) techniques to extract key insights from textual data.
 
-Marketing Insights:
+<b>Marketing Insights:</b>
 
 Highlights how customer sentiments align with product preferences and satisfaction levels.
 
 Provides recommendations for improving marketing strategies based on sentiment analysis results.
 
-Visualization:
+<b>Visualization:</b>
 
 Generates clear and intuitive visualizations to present findings effectively.
 
 Includes bar plots, word clouds, and sentiment distribution graphs to summarize data insights.
 
-Methodology
+<b>Methodology</b>
 
 1. Data Collection
 
@@ -61,7 +61,7 @@ Identifying high-performing and underperforming products based on customer senti
 
 Providing actionable insights for marketing campaigns to target specific customer needs.
 
-Tools and Technologies
+<b>Tools and Technologies</b>
 
 Programming Languages: Python (libraries: Pandas, NumPy, Matplotlib, Seaborn, NLTK, TextBlob).
 
@@ -71,7 +71,7 @@ NLP Libraries: NLTK, TextBlob, Vader.
 
 Development Environment: Jupyter Notebook.
 
-Outcomes
+<b>Outcomes</b>
 
 Comprehensive understanding of customer sentiment and its drivers.
 
@@ -79,11 +79,11 @@ Improved decision-making for marketing campaigns and product development.
 
 Enhanced ability to cater to customer preferences and increase satisfaction.
 
-How to Use
+<b>How to Use</b>
 
 Clone this repository to your local machine.
 
-Install the required dependencies from the requirements.txt file.
+Install the required dependencies from the "requirements.txt file".
 
 Run the EDA scripts to explore the data.
 
@@ -93,4 +93,5 @@ Review visualizations and insights generated to inform marketing strategies.
 
 Contributor
 
-Anju GeorgeSt. Clair College - Data Analytics for Business
+Anju George
+St. Clair College - Data Analytics for Business
