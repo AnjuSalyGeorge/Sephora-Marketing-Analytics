@@ -91,7 +91,7 @@ Execute the sentiment analysis module to classify and analyze customer reviews.
 
 Review visualizations and insights generated to inform marketing strategies.
 
-Contributor
+<b>Contributor</b>
 
 Anju George<br>
 St. Clair College - Data Analytics for Business
