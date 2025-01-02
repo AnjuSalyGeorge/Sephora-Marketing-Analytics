@@ -1,9 +1,9 @@
 # Sephora-Marketing-Analytics
-Overview
+<b>Overview</b>
 
 This project, titled Sephora-Marketing-Analytics Project, is a comprehensive data analysis initiative focused on understanding customer sentiments, exploring data-driven insights, and optimizing marketing strategies for Sephora. The key goal is to leverage sentiment analysis and exploratory data analysis (EDA) techniques to derive actionable insights and improve customer engagement and marketing efficiency.
 
-Features
+<b>##Features</b>
 
 Exploratory Data Analysis (EDA):
 
