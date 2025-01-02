@@ -35,9 +35,10 @@ Includes bar plots, word clouds, and sentiment distribution graphs to summarize 
 
 <b>Methodology</b>
 
-1. Data Collection
+1.  Data Collection
 
-The project starts with acquiring customer review and transaction data, ensuring it is comprehensive and relevant to Sephora’s marketing objectives.
+The project uses customer review and transaction data from [Kaggle](https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews)
+, ensuring it is comprehensive and relevant to Sephora’s marketing objectives.
 
 2. Exploratory Data Analysis (EDA)
 
