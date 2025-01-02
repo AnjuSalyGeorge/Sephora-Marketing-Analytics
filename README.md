@@ -93,5 +93,5 @@ Review visualizations and insights generated to inform marketing strategies.
 
 Contributor
 
-Anju George
+Anju George<br>
 St. Clair College - Data Analytics for Business
